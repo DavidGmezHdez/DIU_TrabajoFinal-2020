@@ -10,7 +10,7 @@ Autor
 ### 1.a Competitive Analysis
 He elegido la web de [Cubikate](https://cubikate.es) ya que al compararla y barajarla con la otra opcion [erranT](https://www.errant.es/es/), se veía que tenía un diseño algo más simple pero elaborado, además que daba la información clara y no presentaba errores a la hora de acceder a algún submenú. Sin embargo, tiene algunos fallos que veremos luego en el Usability Review.
 
-###1.b Persona
+### 1.b Persona
 ![Persona 1](img/Persona1_Federico.png) Persona 1
 
 He elegido a esta persona ya que representa al tipo de usuario que quiere empezar nuevos proyectos en algún lugar agradable.
