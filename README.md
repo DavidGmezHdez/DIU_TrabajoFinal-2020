@@ -15,6 +15,6 @@ He elegido la web de [Cubikate](https://cubikate.es) ya que al compararla y bara
 
 He elegido a esta persona ya que representa al tipo de usuario que quiere empezar nuevos proyectos en algún lugar agradable.
 
-![Persona 2](img/Persona2_Marta) Persona 2
+![Persona 2](img/Persona1_Marta) Persona 2
 
 He elegido a esta persona porque representa el cambio de aires que pueda necesitar un usuario, buscando un espacio donde poder trabajar libremente.
