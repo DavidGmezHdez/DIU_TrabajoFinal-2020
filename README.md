@@ -7,7 +7,7 @@ Autor
  
 ## Paso 1. UX Desk Research & Analisis 
 
-##1.a Competitive Analysis
+### 1.a Competitive Analysis
 He elegido la web de [Cubikate](https://cubikate.es) ya que al compararla y barajarla con la otra opcion [erranT](https://www.errant.es/es/), se veía que tenía un diseño algo más simple pero elaborado, además que daba la información clara y no presentaba errores a la hora de acceder a algún submenú. Sin embargo, tiene algunos fallos que veremos luego en el Usability Review.
 
 ###1.b Persona
