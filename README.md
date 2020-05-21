@@ -18,3 +18,17 @@ He elegido a esta persona ya que representa al tipo de usuario que quiere empeza
 ![Persona 2](img/Persona1_Marta.png) Persona 2
 
 He elegido a esta persona porque representa el cambio de aires que pueda necesitar un usuario, buscando un espacio donde poder trabajar libremente.
+
+### 1.c User Goals and Pain Points
+En vez de realizar un Journey Map con las distintas personas como hemos hecho en las prácticas, voy a analizar los objetivos que quieren tener los usuarios así como sus preocupaciones
+
+### Goals
+Los objetivos de los dos personas son:
+- Encontar un buen lugar donde trabajar
+- Crecer en sus ámbitos laborales y financieros
+
+### Pain Points
+Como pain points encontramos:
+- No quiere que se les moleste, quieren mantener su libertad dentro del servicio.
+
+### 1.d Usability Review
