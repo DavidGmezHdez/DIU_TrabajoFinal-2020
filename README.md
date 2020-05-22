@@ -84,6 +84,7 @@ En cuanto a la paleta de colores, los colores usados ahor amismo son bastante ad
 
 ### Logo
 El logo en el caso de la propia página es un poco soso y falto de estilo, además que en el navegador pasa un poco desapercibido debido a los colores usados. EL logo que propongo puede dar un lavado de cara al servicio, así como ser reconocido ya que tiene más carisma que el anterior.
+
 ![logo](img/logo.png)
 
 ### Tipografía
