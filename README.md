@@ -32,7 +32,8 @@ Como pain points encontramos:
 - No quiere que se les moleste, quieren mantener su libertad dentro del servicio.
 
 ### 1.d Usability Review
-[UsabilityReview](https://github.com/DavidGmezHdez/DIU_TrabajoFinal-2020) 
-Si analizamsolos puntos buenos y malos característicos de la página podemos observar que:
+Si analizamos los puntos buenos y malos característicos de la página podemos observar que:
 - Puntos buenos: EL estilo y la simplicidad de la página es agradable para la vista, siendo no muy complicado navegar por ella al utilizar la tecnología de WordPress.
 - Puntos malos: LA página apenas ofrece información sobre los precios que pueden suponer su principal atractivo, que es el alquilar un lugar donde poder trabajar junto con más gente. Además de la falta clara de información, también es muy repetitiva, repitiendo información cada vez que puede y poniendo el formulario de contacto al final de cada apartado. Además, la estructura del diseño en sí es un poco floja y no muy profesional.
+
+[UsabilityReview](https://github.com/DavidGmezHdez/DIU_TrabajoFinal-2020) 
