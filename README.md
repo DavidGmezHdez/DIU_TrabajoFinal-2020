@@ -34,6 +34,7 @@ Como pain points encontramos:
 
 ### 1.d Usability Review
 Nota final del Usability Review: 52/100
+
 Si analizamos los puntos buenos y malos característicos de la página podemos observar que:
 - Puntos buenos: EL estilo y la simplicidad de la página es agradable para la vista, siendo no muy complicado navegar por ella al utilizar la tecnología de WordPress.
 - Puntos malos: La página apenas ofrece información sobre los precios que pueden suponer su principal atractivo, que es el alquilar un lugar donde poder trabajar junto con más gente. Además de la falta clara de información, también es muy repetitiva, repitiendo información cada vez que puede y poniendo el formulario de contacto al final de cada apartado. Además, la estructura del diseño en sí es un poco floja y no muy profesional.
