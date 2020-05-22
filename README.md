@@ -83,10 +83,15 @@ En cuanto a la paleta de colores, los colores usados ahor amismo son bastante ad
 ![paleta](img/paleta-colores.png)
 
 ### Logo
-El logo en el caso de la propia página es un poco soso y falto de estilo, además que en el navegador pasa un poco desapercibido debido a los colores usados. EL logo que propongo puede dar un lavado de cara al servicio, así como ser reconocido ya que tiene más carisma que el anterior.
+El logo en el caso de la propia página es un poco soso y falto de estilo, además que en el navegador pasa un poco desapercibido debido a los colores usados. El logo que propongo puede dar un lavado de cara al servicio, así como ser reconocido ya que tiene más carisma que el anterior.
 
 ![logo](img/logo.png)
 
 ### Tipografía
 En cuanto a tipografía, a día de hoy se utiliza mucho la de "Roboto" y sus variaciones. Sin embargo, creo que usando la de Open Sans puedes mejorar aún más la página y la aplicación, ya que cuenta con su carisma propio.
 ![tipografia](img/Tipografia.png)
+
+## Valoración Personal
+A modo de vista personal, el diseño de la página original deja mucho que desear, y a pesar de haber utilizado una tecnología que puede ser muy útil como es WordPress, parece como si se hubiera hecho de forma algo vaga y sin tener mucho cuidado sobre cómo plantear un buen diseño desde el principio. POr ello es necesario el rediseño, ya que actualizaríamos la página para que se viera mucho mejor, con nuevas funcionalidades y abierta para nuevos clientes potenciales.
+
+Gracias a este trabajo he podido comprobar a modo personal lo que he aprendido tanto en los trabajos de prácticas como con los de teoría. A medida que se iban desarrollando los ejercicios, íbamos adquiriendo una serie capacidades y conocimientos que luego, para hacer este trabajo, han sido útiles. Sobretodo con las capacidades adquiridas en cuanto accesibilidad, ya que podemos analizar las páginas de una forma que no nos habíamos planetado antes y reflejarlas en el usability review.
