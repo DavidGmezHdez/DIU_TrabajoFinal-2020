@@ -32,8 +32,17 @@ Como pain points encontramos:
 - No quiere que se les moleste, quieren mantener su libertad dentro del servicio.
 
 ### 1.d Usability Review
+Nota final del Usability Review: 52/100
 Si analizamos los puntos buenos y malos característicos de la página podemos observar que:
 - Puntos buenos: EL estilo y la simplicidad de la página es agradable para la vista, siendo no muy complicado navegar por ella al utilizar la tecnología de WordPress.
 - Puntos malos: LA página apenas ofrece información sobre los precios que pueden suponer su principal atractivo, que es el alquilar un lugar donde poder trabajar junto con más gente. Además de la falta clara de información, también es muy repetitiva, repitiendo información cada vez que puede y poniendo el formulario de contacto al final de cada apartado. Además, la estructura del diseño en sí es un poco floja y no muy profesional.
 
 [UsabilityReview](https://github.com/DavidGmezHdez/DIU_TrabajoFinal-2020) 
+
+## Paso 2. UX Desing
+### 2.a feedback Capture Grid
+
+![FeedbackCaptureGrid](img/feedback-capture-grid.png) 
+
+La propuesta de valor que puedo dar es rediseñar la página de forma que mantuviera un diseño estético igual de simple pero que diera más información sobre el alquiler y demás servicios. Además se le agregarían funciones extra como menos uso del formulario y un chat entre los usuarios que estén dentro de la aplicación, de forma que puedan estar conectados y poder preguntarse más a menudo.
+
