@@ -11,6 +11,7 @@ Autor
 He elegido la web de [Cubikate](https://cubikate.es) ya que al compararla y barajarla con la otra opcion [erranT](https://www.errant.es/es/), se veía que tenía un diseño algo más simple pero elaborado, además que daba la información clara y no presentaba errores a la hora de acceder a algún submenú. Sin embargo, tiene algunos fallos que veremos luego en el Usability Review.
 
 ### 1.b Persona
+
 ![Persona 1](img/Persona1_Federico.png) Persona 1
 
 He elegido a esta persona ya que representa al tipo de usuario que quiere empezar nuevos proyectos en algún lugar agradable.
@@ -51,10 +52,15 @@ Además, pretendo incluir más información acerca de la accesibilidad al servic
 ### 2.b Wireframes y patrones de diseño
 
 ![Home](img/Home.png)
+
 ![Precios](img/Precios.png)
+
 ![Info](img/Info.png)
+
 ![Contacto](img/Contacto.png)
+
 ![Perfil](img/Perfil.png)
+
 ![Chat](img/Chat.png)
 
 Para la investigación de diseño y patrones he consultado las páginas que se nos dio en la respectiva práctica, obteniendo algunos patrones que nos pueden servir para la aplicación que vamos a hacer.
@@ -77,7 +83,14 @@ Para la investigación de diseño y patrones he consultado las páginas que se n
         Debido a que queremos hacer que nuestra aplicación sea accesible, hemos pensado que hacer una sola página que contenga toda la información puede ser lo mejor. La página principal de nuestra aplicación estará dividida en secciones. Podrás acceder a esas secciones deslizando hacia arriba o hacia abajo en la pantalla o bien usar la herramienta de la hamburguesa, la cual será un botoncito desplegable que cuando le des te muestre las diferentes secciones a las que puedes ir, y si haces click, la propia aplicación te llevará a esa sección. Todo esto sin recargas de página. Esta herramienta si se usa bien garantiza bastante eficiencia y velocidad de manejo, además que su uso es bastante extendido en otras aplicaciones.
 
 
+### Paleta de colores
+En cuanto a la paleta de colores, los colores usados ahor amismo son bastante adecuados para el diseño de una página de este estilo.
+![paleta](img/paleta-colores.png)
 
+### Logo
+El logo en el caso de la propia página es un poco soso y falto de estilo, además que en el navegador pasa un poco desapercibido debido a los colores usados. EL logo que propongo puede dar un lavado de cara al servicio, así como ser reconocido ya que tiene más carisma que el anterior.
+![logo](img/logo.png)
 
-
-
+### Tipografía
+En cuanto a tipografía, a día de hoy se utiliza mucho la de "Roboto" y sus variaciones. Sin embargo, creo que usando la de Open Sans puedes mejorar aún más la página y la aplicación, ya que cuenta con su carisma propio.
+![tipografia](img/Tipografía.png)
