@@ -52,15 +52,10 @@ Además, pretendo incluir más información acerca de la accesibilidad al servic
 ### 2.b Wireframes y patrones de diseño
 
 ![Home](img/Home.png)
-
 ![Precios](img/Precios.png)
-
 ![Info](img/Info.png)
-
 ![Contacto](img/Contacto.png)
-
 ![Perfil](img/Perfil.png)
-
 ![Chat](img/Chat.png)
 
 Para la investigación de diseño y patrones he consultado las páginas que se nos dio en la respectiva práctica, obteniendo algunos patrones que nos pueden servir para la aplicación que vamos a hacer.
@@ -93,4 +88,4 @@ El logo en el caso de la propia página es un poco soso y falto de estilo, adem�
 
 ### Tipografía
 En cuanto a tipografía, a día de hoy se utiliza mucho la de "Roboto" y sus variaciones. Sin embargo, creo que usando la de Open Sans puedes mejorar aún más la página y la aplicación, ya que cuenta con su carisma propio.
-![tipografia](img/Tipografía.png)
+![tipografia](img/Tipografia.png)
