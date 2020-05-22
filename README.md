@@ -45,4 +45,39 @@ Si analizamos los puntos buenos y malos característicos de la página podemos o
 ![FeedbackCaptureGrid](img/feedback-capture-grid.png) 
 
 La propuesta de valor que puedo dar es rediseñar la página de forma que mantuviera un diseño estético igual de simple pero que diera más información sobre el alquiler y demás servicios. Además se le agregarían funciones extra como menos uso del formulario y un chat entre los usuarios que estén dentro de la aplicación, de forma que puedan estar conectados y poder preguntarse más a menudo.
+Además, pretendo incluir más información acerca de la accesibilidad al servicio web, tratando que sea lo más accesible para todo tipo de discapacidad y un buscador para buscar información sobre algún tema en cuestión.
+
+
+### 2.b Wireframes y patrones de diseño
+
+![Home](img/Home.png)
+![Precios](img/Precios.png)
+![Info](img/Info.png)
+![Contacto](img/Contacto.png)
+![Perfil](img/Perfil.png)
+![Chat](img/Chat.png)
+
+Para la investigación de diseño y patrones he consultado las páginas que se nos dio en la respectiva práctica, obteniendo algunos patrones que nos pueden servir para la aplicación que vamos a hacer.
+
+1.Navegación y exploración de la aplicación:  
+    **- Organizar y etiquetar las categorías del menú**  
+        Se realiza una agrupación correcta en las categorías del menú para no confundir al usuario y que se queden bien diferenciadas. 
+    **- Colocar el campo de búsqueda en una posición destacada**  
+        Es vital que los usuarios puedan acceder de forma rápida al campo de búsqueda y que sea visualmente fácil localizarlo, para ello tenemos un cuadro de búsqueda en la parte central justo debajo del logo.  
+2.Registro:  
+    **- Ofrecer una utilidad clara antes de solicitar el registro**  
+        Una aplicación que impide ver sus funciones antes de registrarse, puede provocar desconfianza en los usuarios. La aplicación permite su visualización sin tener que registrarse. Si quieres hacer log-in, simplemente se pulsa el botón de arriba a la derecha.
+
+**Respecto a [ui-patterns](https://ui-patterns.com/) :**   
+    **- Autocomplete Design Pattern**  
+        Para las búsqueda es útil seguir el diseño de autocompletado, permitiendo a los usuarios realizar las búsquedas más rápidas. Para ello se van mostrando búsquedas o sugerencias para lo que el usuario ha escrito hasta ese momento.  
+    **- Chat Design Pattern**  
+        Es vital que los usuarios puedan chatear sin tener que salirse del sistema. El chat permite hablar de forma global con todos los usuarios del sistema y también de forma privada e individual con un usuario concreto. Para seguir este patrón es necesario proporcionar una ventana para el chat, una barra para enviar esos mensajes y un ventana que muestre dichos mensajes, será necesario que quede por encima del resto de funciones de la aplicación (para no tener que salir de esta) y mostrar de forma clara esa división entre el chat de todos los usuarios y los privados.
+    **- Menú hamburguesa**
+        Debido a que queremos hacer que nuestra aplicación sea accesible, hemos pensado que hacer una sola página que contenga toda la información puede ser lo mejor. La página principal de nuestra aplicación estará dividida en secciones. Podrás acceder a esas secciones deslizando hacia arriba o hacia abajo en la pantalla o bien usar la herramienta de la hamburguesa, la cual será un botoncito desplegable que cuando le des te muestre las diferentes secciones a las que puedes ir, y si haces click, la propia aplicación te llevará a esa sección. Todo esto sin recargas de página. Esta herramienta si se usa bien garantiza bastante eficiencia y velocidad de manejo, además que su uso es bastante extendido en otras aplicaciones.
+
+
+
+
+
 
